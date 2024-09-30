@@ -1,8 +1,8 @@
-## Veg Cuisine - Restaurant Management System
+Veg Cuisine - Restaurant Management System
 This Java project implements a simple restaurant management system for a vegetarian cuisine restaurant. It allows both admins and customers to interact with the system through a menu-driven interface.
 
-## Features
-## Admin Section:
+Features
+Admin Section:
 View the list of available food items.
 Update the details of existing food items (name, price, quantity).
 Delete food items from the menu.
@@ -20,7 +20,7 @@ Run the Main class to start the program.
 Dependencies
 This project does not have any external dependencies.
 
-## Usage
+Usage
 The program presents a main menu with three options:
 
 Admin Section: Access the admin functionalities for managing food items.
